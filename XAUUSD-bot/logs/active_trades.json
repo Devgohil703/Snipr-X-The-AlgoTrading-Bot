@@ -1,0 +1,41 @@
+{
+    "150901647838": {
+        "symbol": "GBPJPY",
+        "strategy": "ote",
+        "direction": "buy",
+        "entry_price": 199.291,
+        "initial_sl": 199.25341099441067,
+        "trailing_sl_level": 199.24401374301334,
+        "trailing_sl_distance": 0.04698625698665072,
+        "tp1": 199.37,
+        "tp2": 199.4,
+        "atr": 0.03132417132443381,
+        "entry_time": "2025-09-23T09:36:20.999087+00:00"
+    },
+    "150901688042": {
+        "symbol": "XAUUSD",
+        "strategy": "order_block",
+        "direction": "buy",
+        "entry_price": 3779.63,
+        "initial_sl": 3777.5220572462786,
+        "trailing_sl_level": 3776.978085869418,
+        "trailing_sl_distance": 2.6519141305822522,
+        "tp1": 3783.85,
+        "tp2": 3785.95,
+        "atr": 1.7679427537215016,
+        "entry_time": "2025-09-23T09:44:36.489969+00:00"
+    },
+    "150901688060": {
+        "symbol": "XAUUSD",
+        "strategy": "order_block",
+        "direction": "buy",
+        "full_comment": "order_block_TP2",
+        "type": "BUY",
+        "lot": 0.04,
+        "entry_price": 3779.7,
+        "entry_time": "2025-09-23T09:44:36.839969+00:00",
+        "sl": 3777.52,
+        "tp": 3785.95,
+        "risk_amount": 993.567
+    }
+}

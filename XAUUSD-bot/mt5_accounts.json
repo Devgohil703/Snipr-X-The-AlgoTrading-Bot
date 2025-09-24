@@ -1,0 +1,12 @@
+[
+  {
+    "login": "12345678",
+    "server": "MetaQuotes-Demo",
+    "name": "Account 1234",
+    "balance": 10000,
+    "equity": 10000,
+    "margin": 0.0,
+    "freeMargin": 10000,
+    "connected": true
+  }
+]

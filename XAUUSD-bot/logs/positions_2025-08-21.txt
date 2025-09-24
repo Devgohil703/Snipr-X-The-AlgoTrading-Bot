@@ -1,0 +1,112 @@
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:38:21 UTC
+Ticket: 150812758338
+Symbol: MSFT
+Type: BUY
+Current Price: 505.80000
+Open Price: 504.95000
+Stop Loss: 504.32000
+Take Profit: 508.18000
+Profit: $2.37
+Volume: 3.00
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:38:21 UTC
+Ticket: 150812758342
+Symbol: MSFT
+Type: BUY
+Current Price: 505.80000
+Open Price: 504.95000
+Stop Loss: 504.32000
+Take Profit: 509.47000
+Profit: $2.37
+Volume: 3.00
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:38:22 UTC
+Ticket: 150812758366
+Symbol: MSFT
+Type: BUY
+Current Price: 505.80000
+Open Price: 504.95000
+Stop Loss: 504.26000
+Take Profit: 508.31000
+Profit: $2.37
+Volume: 3.00
+Comment: ote_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:38:22 UTC
+Ticket: 150812758373
+Symbol: MSFT
+Type: BUY
+Current Price: 505.80000
+Open Price: 504.98000
+Stop Loss: 504.26000
+Take Profit: 509.66000
+Profit: $2.28
+Volume: 3.00
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:42:53 UTC
+Ticket: 150812763869
+Symbol: AMD
+Type: BUY
+Current Price: 163.94000
+Open Price: 163.88000
+Stop Loss: 163.01000
+Take Profit: 165.49000
+Profit: $-1.10
+Volume: 5.00
+Comment: ote_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:42:53 UTC
+Ticket: 150812763889
+Symbol: AMD
+Type: BUY
+Current Price: 163.94000
+Open Price: 163.88000
+Stop Loss: 163.01000
+Take Profit: 166.32000
+Profit: $-1.10
+Volume: 5.00
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-21 18:45:44 UTC
+Ticket: 150812758373
+Symbol: MSFT
+Type: BUY
+Current Price: 505.00000
+Open Price: 504.98000
+Stop Loss: 504.65000
+Take Profit: 509.66000
+Profit: $0.48
+Volume: 3.00
+Comment: ote_TP2
+==================================================

@@ -1,0 +1,544 @@
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:05 UTC
+Ticket: 150805847199
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.65800
+Stop Loss: 199.50300
+Take Profit: 199.89000
+Profit: $0.37
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:05 UTC
+Ticket: 150805847230
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.65700
+Stop Loss: 199.50300
+Take Profit: 200.02000
+Profit: $0.26
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:05 UTC
+Ticket: 150805847361
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.65700
+Stop Loss: 199.48900
+Take Profit: 199.92000
+Profit: $0.39
+Volume: 0.03
+Comment: ote_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:06 UTC
+Ticket: 150805847480
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.65900
+Stop Loss: 199.48900
+Take Profit: 200.06000
+Profit: $0.23
+Volume: 0.02
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:06 UTC
+Ticket: 150805985251
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.66600
+Stop Loss: 199.50400
+Take Profit: 199.92000
+Profit: $0.20
+Volume: 0.03
+Comment: ote_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:06 UTC
+Ticket: 150805985305
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.66700
+Stop Loss: 199.50400
+Take Profit: 200.06000
+Profit: $0.12
+Volume: 0.02
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:07 UTC
+Ticket: 150806040775
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.66700
+Stop Loss: 199.49800
+Take Profit: 199.91000
+Profit: $0.18
+Volume: 0.03
+Comment: ote_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:30:07 UTC
+Ticket: 150806040793
+Symbol: GBPJPY
+Type: BUY
+Current Price: 199.67600
+Open Price: 199.66500
+Stop Loss: 199.49800
+Take Profit: 200.05000
+Profit: $0.15
+Volume: 0.02
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:37:01 UTC
+Ticket: 150805847320
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.78500
+Open Price: 147.79900
+Stop Loss: 147.92300
+Take Profit: 147.61000
+Profit: $0.28
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:37:01 UTC
+Ticket: 150805847457
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.78500
+Open Price: 147.79900
+Stop Loss: 147.92300
+Take Profit: 147.51000
+Profit: $0.19
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:39:07 UTC
+Ticket: 150806108844
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.92000
+Open Price: 3336.75000
+Stop Loss: 3341.60000
+Take Profit: 3327.78000
+Profit: $3.32
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:39:07 UTC
+Ticket: 150806108855
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.92000
+Open Price: 3336.75000
+Stop Loss: 3341.60000
+Take Profit: 3323.17000
+Profit: $3.32
+Volume: 0.04
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:40:05 UTC
+Ticket: 150806112839
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.76000
+Open Price: 147.76100
+Stop Loss: 147.88400
+Take Profit: 147.51000
+Profit: $0.02
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:40:05 UTC
+Ticket: 150806112851
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.76000
+Open Price: 147.76100
+Stop Loss: 147.88400
+Take Profit: 147.39000
+Profit: $0.01
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:47:08 UTC
+Ticket: 150806112839
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.69600
+Open Price: 147.76100
+Stop Loss: 147.80500
+Take Profit: 147.51000
+Profit: $1.32
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:47:08 UTC
+Ticket: 150806112851
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.69600
+Open Price: 147.76100
+Stop Loss: 147.80500
+Take Profit: 147.39000
+Profit: $0.88
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:48:09 UTC
+Ticket: 150806112839
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.67600
+Open Price: 147.76100
+Stop Loss: 147.79400
+Take Profit: 147.51000
+Profit: $1.73
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:48:09 UTC
+Ticket: 150806112851
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.67600
+Open Price: 147.76100
+Stop Loss: 147.79400
+Take Profit: 147.39000
+Profit: $1.15
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:49:10 UTC
+Ticket: 150806112839
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.65400
+Open Price: 147.76100
+Stop Loss: 147.77600
+Take Profit: 147.51000
+Profit: $2.17
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:49:10 UTC
+Ticket: 150806112851
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.65400
+Open Price: 147.76100
+Stop Loss: 147.77600
+Take Profit: 147.39000
+Profit: $1.45
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:50:11 UTC
+Ticket: 150806108844
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.93000
+Open Price: 3336.75000
+Stop Loss: 3340.10000
+Take Profit: 3327.78000
+Profit: $3.28
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:50:11 UTC
+Ticket: 150806108855
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.93000
+Open Price: 3336.75000
+Stop Loss: 3340.10000
+Take Profit: 3323.17000
+Profit: $3.28
+Volume: 0.04
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:51:12 UTC
+Ticket: 150806108844
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.75000
+Open Price: 3336.75000
+Stop Loss: 3340.05000
+Take Profit: 3327.78000
+Profit: $4.00
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:51:12 UTC
+Ticket: 150806108855
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.75000
+Open Price: 3336.75000
+Stop Loss: 3340.05000
+Take Profit: 3323.17000
+Profit: $4.00
+Volume: 0.04
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:58:15 UTC
+Ticket: 150806108844
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.55000
+Open Price: 3336.75000
+Stop Loss: 3339.97000
+Take Profit: 3327.78000
+Profit: $4.80
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 13:58:15 UTC
+Ticket: 150806108855
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.55000
+Open Price: 3336.75000
+Stop Loss: 3339.97000
+Take Profit: 3323.17000
+Profit: $4.80
+Volume: 0.04
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:00:13 UTC
+Ticket: 150806112839
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.64400
+Open Price: 147.76100
+Stop Loss: 147.75700
+Take Profit: 147.51000
+Profit: $2.38
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:00:14 UTC
+Ticket: 150806112851
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.64400
+Open Price: 147.76100
+Stop Loss: 147.75700
+Take Profit: 147.39000
+Profit: $1.58
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:00:16 UTC
+Ticket: 150806108844
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.18000
+Open Price: 3336.75000
+Stop Loss: 3339.77000
+Take Profit: 3327.78000
+Profit: $6.28
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:00:16 UTC
+Ticket: 150806108855
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3335.18000
+Open Price: 3336.75000
+Stop Loss: 3339.77000
+Take Profit: 3323.17000
+Profit: $6.28
+Volume: 0.04
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:01:14 UTC
+Ticket: 150806112839
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.62500
+Open Price: 147.76100
+Stop Loss: 147.73600
+Take Profit: 147.51000
+Profit: $2.76
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:01:14 UTC
+Ticket: 150806112851
+Symbol: USDJPY
+Type: SELL
+Current Price: 147.62500
+Open Price: 147.76100
+Stop Loss: 147.73600
+Take Profit: 147.39000
+Profit: $1.84
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:01:17 UTC
+Ticket: 150806108844
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3334.02000
+Open Price: 3336.75000
+Stop Loss: 3339.11000
+Take Profit: 3327.78000
+Profit: $10.92
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-19 14:01:17 UTC
+Ticket: 150806108855
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3334.02000
+Open Price: 3336.75000
+Stop Loss: 3339.11000
+Take Profit: 3323.17000
+Profit: $10.92
+Volume: 0.04
+Comment: order_block_TP2
+==================================================

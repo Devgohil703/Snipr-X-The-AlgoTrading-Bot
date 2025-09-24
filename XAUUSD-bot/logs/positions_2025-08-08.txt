@@ -1,0 +1,48 @@
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-08 18:15:25 UTC
+Ticket: 150785954046
+Symbol: EURJPY
+Type: BUY
+Current Price: 172.20600
+Open Price: 172.20200
+Stop Loss: 172.08500
+Take Profit: 172.34000
+Profit: $0.03
+Volume: 0.01
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-08 18:19:26 UTC
+Ticket: 150785969326
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3393.85000
+Open Price: 3396.97000
+Stop Loss: 3407.75000
+Take Profit: 3380.84000
+Profit: $3.12
+Volume: 0.01
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-08 18:27:35 UTC
+Ticket: 150785969326
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3390.95000
+Open Price: 3396.97000
+Stop Loss: 3400.63000
+Take Profit: 3380.84000
+Profit: $6.02
+Volume: 0.01
+Comment: order_block_TP1
+==================================================

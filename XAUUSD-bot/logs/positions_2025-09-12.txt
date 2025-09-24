@@ -1,0 +1,112 @@
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:08:48 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3647.88000
+Open Price: 3647.51000
+Stop Loss: 3643.74000
+Take Profit: 3655.65000
+Profit: $1.48
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:15:53 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3647.87000
+Open Price: 3647.51000
+Stop Loss: 3643.79000
+Take Profit: 3655.65000
+Profit: $1.44
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:16:54 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3649.02000
+Open Price: 3647.51000
+Stop Loss: 3644.18000
+Take Profit: 3655.65000
+Profit: $6.04
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:17:56 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3649.50000
+Open Price: 3647.51000
+Stop Loss: 3645.19000
+Take Profit: 3655.65000
+Profit: $7.96
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:19:57 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3649.74000
+Open Price: 3647.51000
+Stop Loss: 3645.61000
+Take Profit: 3655.65000
+Profit: $8.92
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:20:58 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3650.80000
+Open Price: 3647.51000
+Stop Loss: 3645.80000
+Take Profit: 3655.65000
+Profit: $13.16
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-12 10:21:59 UTC
+Ticket: 150869703610
+Symbol: XAUUSD
+Type: BUY
+Current Price: 3651.42000
+Open Price: 3647.51000
+Stop Loss: 3646.71000
+Take Profit: 3655.65000
+Profit: $15.64
+Volume: 0.04
+Comment: order_block_TP1
+==================================================

@@ -1,0 +1,64 @@
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-13 05:10:53 UTC
+Ticket: 150793493034
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3350.51000
+Open Price: 3351.59000
+Stop Loss: 3354.64000
+Take Profit: 3345.50000
+Profit: $4.32
+Volume: 0.04
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-13 05:10:53 UTC
+Ticket: 150793493040
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3350.51000
+Open Price: 3351.59000
+Stop Loss: 3354.64000
+Take Profit: 3342.45000
+Profit: $4.32
+Volume: 0.04
+Comment: order_block_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-13 05:10:54 UTC
+Ticket: 150793493043
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3350.51000
+Open Price: 3351.59000
+Stop Loss: 3354.68000
+Take Profit: 3345.41000
+Profit: $4.32
+Volume: 0.04
+Comment: ote_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-08-13 05:10:54 UTC
+Ticket: 150793493046
+Symbol: XAUUSD
+Type: SELL
+Current Price: 3350.51000
+Open Price: 3351.59000
+Stop Loss: 3354.68000
+Take Profit: 3342.31000
+Profit: $4.32
+Volume: 0.04
+Comment: ote_TP2
+==================================================

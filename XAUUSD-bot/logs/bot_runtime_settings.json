@@ -1,0 +1,21 @@
+{
+  "all_strategies": false,
+  "selected_strategies": [
+    "msb_retest",
+    "judas_swing",
+    "mmxm",
+    "amd_strategy",
+    "mmc_combo_strategy",
+    "mmc"
+  ],
+  "killzone_map": {
+    "mmxm": true,
+    "judas_swing": true,
+    "ote": false,
+    "amd_strategy": false,
+    "msb_retest": false,
+    "order_block": false,
+    "mmc_combo_strategy": false,
+    "mmc": false
+  }
+}

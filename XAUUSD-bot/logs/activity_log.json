@@ -1,0 +1,1402 @@
+[
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-15T14:56:32.555971",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T15:02:22.091682",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-15T15:02:22.117668",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T15:47:38.013367",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-15T15:47:38.037617",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T15:49:15.527914",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-15T15:49:15.546769",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T16:04:37.454930",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-15T16:04:37.474337",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T16:08:22.579854",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-15T16:08:22.596693",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T16:13:40.796467",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-15T16:13:40.810132",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T16:28:40.143101",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-15T16:28:40.164545",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-15T17:52:00.060283",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-15T17:52:00.075873",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T12:29:57.283537",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-16T12:29:57.299207",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T13:44:12.809285",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-16T13:44:12.825779",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T15:16:28.307165",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-16T15:16:28.317173",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T15:18:01.796916",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-16T15:18:01.824952",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T16:18:05.072776",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-16T16:18:05.108942",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T16:27:34.766378",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-16T16:27:34.790439",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-16T16:28:50.927144",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-16T16:28:50.955775",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T11:05:53.905727",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T11:05:53.923479",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T11:07:49.188548",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-20T11:07:49.202238",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T11:41:45.773152",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T11:41:46.253161",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T11:41:47.908475",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T11:41:47.923158",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:15:51.732557",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:15:51.748796",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:17:56.541026",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:17:56.843588",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:17:58.034029",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:17:58.050650",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:19:47.533334",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:19:47.557356",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:23:09.174682",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:23:09.191862",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:31:39.453680",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:31:39.465194",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:35:59.840328",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:35:59.857509",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:38:50.063021",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:38:50.081072",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:45:41.306608",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:45:41.323365",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:46:19.396854",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:46:19.414922",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:47:51.312560",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:47:51.329161",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:51:38.113992",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:51:38.130073",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:52:49.227663",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:52:49.246243",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:53:54.174627",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T12:53:54.190703",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T12:55:49.730635",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-20T12:55:49.738328",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:06:22.922002",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:06:22.932573",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:29:25.420254",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:29:25.434864",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:43:38.612221",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:43:38.618517",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:45:53.566973",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:45:53.582274",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:49:39.547537",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:49:39.570435",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:50:10.220245",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:50:10.237760",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T13:50:25.815156",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T13:50:25.828382",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T14:31:24.664576",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T14:31:24.692432",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T14:31:46.784041",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T14:31:46.805605",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T14:34:18.647378",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T14:34:18.681299",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-20T15:01:52.114024",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-20T15:01:52.122627",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:27:18.816490",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T10:27:18.834098",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:44:24.583795",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T10:44:24.605715",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:48:15.980293",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T10:48:15.995864",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:50:27.061360",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T10:50:27.080350",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:52:02.525328",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T10:52:02.546120",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:52:57.892613",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T10:52:57.909898",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T10:53:47.187901",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T10:53:47.203761",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:01:57.621868",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:01:57.642431",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:12:42.421697",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T11:12:42.440685",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:15:52.044138",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:15:52.060944",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:23:51.892233",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:23:51.911060",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:31:30.852275",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:31:30.875397",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:38:39.252311",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:38:39.268548",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:51:00.025843",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:51:00.043687",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:51:07.272784",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:51:07.290561",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T11:55:21.144079",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T11:55:21.163145",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T12:07:42.503038",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T12:07:42.532761",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T12:08:27.801939",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T12:08:27.823225",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T14:54:17.122263",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T14:54:17.145818",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:07:07.878073",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T15:07:07.895659",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:07:14.365627",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:07:14.386241",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:12:54.434742",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:12:54.456039",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:13:12.342032",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T15:13:12.359725",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:19:56.412447",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:19:57.667077",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:19:57.688184",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:23:41.620254",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:23:41.638511",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:24:12.931568",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:24:12.954226",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:24:20.298508",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:24:20.329716",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:24:49.004343",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:24:49.023432",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:27:55.004304",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:27:55.022162",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:29:12.523132",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:29:12.536306",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:34:36.478450",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:34:36.498324",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:35:41.047551",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:35:41.067220",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:36:33.075278",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:36:33.094149",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:36:42.046663",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:36:42.064726",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:38:25.029876",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:38:25.842006",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:38:26.941973",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:38:26.960051",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:39:12.350584",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:39:12.368574",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:39:37.167223",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:39:37.185886",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:40:52.578567",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:40:52.601052",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:44:35.955441",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:44:35.980030",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:44:44.866248",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T15:44:44.882855",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:47:18.037498",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T15:47:18.046656",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T15:47:51.314981",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Stopped",
+    "details": "Trading bot process terminated.",
+    "timestamp": "2025-09-22T15:47:51.330011",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T16:09:16.117257",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T16:09:16.136167",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-22T16:12:28.408867",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-22T16:12:28.426744",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T11:10:57.315641",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-23T11:10:57.331865",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T11:18:54.263214",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-23T11:18:54.281576",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:35.388570",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:36.280631",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:37.310102",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:38.475977",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:39.055537",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:40.349475",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:40.849944",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T13:38:42.591135",
+    "tag": "settings"
+  },
+  {
+    "type": "bot_control",
+    "title": "Bot Started",
+    "details": "Trading bot process initiated.",
+    "timestamp": "2025-09-23T13:38:42.609182",
+    "tag": "status"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T15:45:20.230239",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T15:45:21.126269",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T15:45:32.470765",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T15:45:45.886443",
+    "tag": "settings"
+  },
+  {
+    "type": "config",
+    "title": "Bot Settings Updated",
+    "details": "Configuration settings updated successfully via UI.",
+    "timestamp": "2025-09-23T15:45:48.951329",
+    "tag": "settings"
+  }
+]

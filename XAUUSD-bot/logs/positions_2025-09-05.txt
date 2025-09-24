@@ -1,0 +1,64 @@
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-05 06:45:33 UTC
+Ticket: 150847387536
+Symbol: EURJPY
+Type: BUY
+Current Price: 173.00400
+Open Price: 172.92000
+Stop Loss: 172.83200
+Take Profit: 173.10000
+Profit: $1.13
+Volume: 0.02
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-05 06:46:32 UTC
+Ticket: 150847387536
+Symbol: EURJPY
+Type: BUY
+Current Price: 173.01400
+Open Price: 172.92000
+Stop Loss: 172.94200
+Take Profit: 173.10000
+Profit: $1.27
+Volume: 0.02
+Comment: ote_TP2
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-05 07:02:47 UTC
+Ticket: 150847668971
+Symbol: GBPJPY
+Type: SELL
+Current Price: 199.39700
+Open Price: 199.52900
+Stop Loss: 199.65200
+Take Profit: 199.26000
+Profit: $2.67
+Volume: 0.03
+Comment: order_block_TP1
+==================================================
+
+==================================================
+POSITION SL_UPDATED
+==================================================
+Time: 2025-09-05 07:02:47 UTC
+Ticket: 150847668976
+Symbol: GBPJPY
+Type: SELL
+Current Price: 199.39700
+Open Price: 199.52900
+Stop Loss: 199.65200
+Take Profit: 199.13000
+Profit: $1.78
+Volume: 0.02
+Comment: order_block_TP2
+==================================================
