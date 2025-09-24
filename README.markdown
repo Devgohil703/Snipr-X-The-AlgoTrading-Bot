@@ -1,4 +1,4 @@
-# SniprX – AI-Powered XAUUSD Trading Platform
+# SniprX – AI-Powered Trading Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
@@ -13,7 +13,7 @@
 ## 🚀 Features
 
 ### Backend – XAUUSD Trading Bot (Python + MetaTrader 5)
-- **Multi-Strategy Execution**: Implements advanced trading strategies (Judas Swing, MSB Retest, AMD, MMC, MMXM, Engulfing Candle, Order Block, OTE).
+- **Multi-Strategy Execution**: Implements advanced trading strategies.
 - **FastAPI Server**: RESTful API for bot control, MT5 authentication, and trade data retrieval.
 - **Telegram Integration**: Real-time trade alerts, error notifications, and system status updates via Telegram.
 - **Persistent Logging**: Unified trade logging in SQLite, CSV, and JSON formats with a standardized schema.
