@@ -142,7 +142,7 @@ SniprX/
 
 ---
 
-### 🔒 Optional Express Backend (OAuth & Telegram Webhook)
+### Express Backend (OAuth & Telegram Webhook)
 
 1. **Navigate to Express Server**
    ```bash
