@@ -7,8 +7,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?logo=fastapi)
 ![MT5](https://img.shields.io/badge/MetaTrader-5-blue)
 
-**SniprX** is a professional-grade, full-stack trading platform designed for **XAUUSD (Gold)** trading. It integrates a **Python-based automated trading bot** with a **Next.js dashboard** for real-time monitoring, trade management, and Telegram notifications. The platform supports advanced trading strategies, robust risk management, and optional AI-driven trade filtering, making it suitable for both retail and institutional traders.
-
+**SniprX is a professional-grade, integrated trading platform for XAUUSD (Gold), major forex pairs such as **USD/JPY and EUR/USD**. It combines a Python-based automated trading engine with an interactive Next.js dashboard for real-time trade monitoring, execution, and Telegram alerts. The platform supports multiple advanced trading strategies, dynamic risk management, and machine learning–powered trade filtering to enhance decision-making, accuracy, and efficiency. Designed for both retail and institutional traders, SniprX delivers a sophisticated, data-driven trading experience across traditional and digital markets.
 ---
 
 ## 🚀 Features
